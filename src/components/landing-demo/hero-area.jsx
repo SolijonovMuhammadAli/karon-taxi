@@ -15,23 +15,40 @@ const HeroArea = () => {
                 className="subtitle"
                 data-sal="slide-up"
                 data-sal-duration="1000">
-                Online Course & Education Template
+                Uzoq manzilga qulay yetib olish
               </span>
               <h1
                 className="title"
                 data-sal-delay="100"
                 data-sal="slide-up"
                 data-sal-duration="1000">
-                EduBlink Education & Online Course HTML Template
+                Karvon taxi hizmati uzoq yo'lga qulay va xafsiz yetib oling
               </h1>
               <div
-                className="banner-btn"
-                data-sal-delay="400"
-                data-sal="slide-up"
-                data-sal-duration="1000">
-                <a href="/#" className="edu-btn">
-                  Download App <i className="icon-20"></i>
-                </a>
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  alignItems: "center",
+                  gap: 10,
+                }}>
+                <div
+                  className="banner-btn"
+                  data-sal-delay="400"
+                  data-sal="slide-up"
+                  data-sal-duration="1000">
+                  <a href="/#" className="edu-btn">
+                    Download App <i className="icon-20"></i>
+                  </a>
+                </div>
+                <div
+                  className="banner-btn"
+                  data-sal-delay="400"
+                  data-sal="slide-up"
+                  data-sal-duration="1000">
+                  <a href="/#" className="edu-btn">
+                    Download App <i className="icon-20"></i>
+                  </a>
+                </div>
               </div>
             </div>
           </div>

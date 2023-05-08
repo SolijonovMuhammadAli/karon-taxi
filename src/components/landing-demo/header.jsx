@@ -35,24 +35,13 @@ const Header = () => {
                 <nav className="mainmenu-nav">
                   <ul className="mainmenu">
                     <li>
-                      <a href="#intro">Intro</a>
+                      <a href="#intro">Bosh sahifa</a>
                     </li>
                     <li>
-                      <a href="#demos">Demos</a>
+                      <a href="#">Biz haqimizda</a>
                     </li>
                     <li>
-                      <a
-                        href="https://docs.devsblink.com/edublink-react/"
-                        target="_blank">
-                        Documentation
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="https://devsblink.freshdesk.com/"
-                        target="_blank">
-                        Support
-                      </a>
+                      <a href="#">Yordam</a>
                     </li>
                   </ul>
                 </nav>
@@ -60,11 +49,8 @@ const Header = () => {
               <div className="header-right">
                 <ul className="header-action">
                   <li className="header-btn">
-                    <a
-                      href="https://1.envato.market/AoJezj"
-                      target="_blank"
-                      className="edu-btn btn-medium">
-                      Purchase Now
+                    <a href="#" className="edu-btn btn-medium">
+                      Bog'lanish
                     </a>
                   </li>
                   <li className="mobile-menu-bar d-block d-xl-none">
