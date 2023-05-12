@@ -27,10 +27,7 @@ const Footer = () => {
             data-sal-delay="400"
             data-sal="slide-up"
             data-sal-duration="1000">
-            <a
-              href="https://1.envato.market/AoJezj"
-              target="_blank"
-              className="edu-btn">
+            <a href="#" target="_blank" className="edu-btn">
               Download EduBlink <i className="icon-4"></i>
             </a>
             <a href="#demos" className="edu-btn btn-bg-white">

@@ -15,14 +15,14 @@ const HeroArea = () => {
                 className="subtitle"
                 data-sal="slide-up"
                 data-sal-duration="1000">
-                Uzoq manzilga qulay yetib olish
+                Karvon taxi bilan manzilingizga qulay yetib oling
               </span>
               <h1
                 className="title"
                 data-sal-delay="100"
                 data-sal="slide-up"
                 data-sal-duration="1000">
-                Karvon taxi hizmati uzoq yo'lga qulay va xafsiz yetib oling
+                Biz bilan o'zingizni qulay va bexatar his eting
               </h1>
               <div
                 style={{

@@ -93,28 +93,16 @@ const Header = () => {
             </div>
             <ul className="mainmenu">
               <li>
-                <a href="#intro">Intro</a>
+                <a href="#intro">Bosh sahifa</a>
               </li>
               <li>
-                <a href="#demos">Demos</a>
+                <a href="#">Biz haqimizda</a>
               </li>
               <li>
-                <a
-                  href="https://docs.devsblink.com/edublink-react/"
-                  target="_blank">
-                  Documentation
-                </a>
-              </li>
-              <li>
-                <a href="https://devsblink.freshdesk.com/" target="_blank">
-                  Support
-                </a>
+                <a href="#">Yordam</a>
               </li>
               <li className="header-btn">
-                <a
-                  href="https://1.envato.market/AoJezj"
-                  target="_blank"
-                  className="edu-btn btn-medium">
+                <a href="#" target="_blank" className="edu-btn btn-medium">
                   Purchase Now
                 </a>
               </li>
