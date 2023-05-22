@@ -8,7 +8,7 @@ const CourseDemo = () => {
     <div className="pv-courses-demo">
       <div className="container">
         <div className="section-title section-center splash-title">
-          <span className="number">7+</span>
+          <span className="number">1500+</span>
           <span className="shape-line">
             <i className="icon-19"></i>
           </span>
@@ -17,15 +17,15 @@ const CourseDemo = () => {
             data-sal-delay="100"
             data-sal="slide-up"
             data-sal-duration="1000">
-            Responsive Course Layouts
+            Buyurtmalar
           </h2>
           <p
             className="title"
             data-sal-delay="100"
             data-sal="slide-up"
             data-sal-duration="1000">
-            Multiple choices for getting learners impressed with course grids &
-            layouts
+            Bizning dasturimmizdan foydalanib qulayroq mijoz topishga erishish
+            va osonroq pul toping
           </p>
         </div>
       </div>

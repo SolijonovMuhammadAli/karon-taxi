@@ -1,7 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { useMouseMoveUI } from "../../contexts/mouse-move-context";
-import { SocialShare } from "../social-share";
 
 const ContactMeArea = () => {
   const { mouseDirection, mouseReverse } = useMouseMoveUI();
@@ -83,7 +82,6 @@ const ContactMeArea = () => {
                         <i className="icon-share-alt"></i>
                       </a>
                     </li>
-                    <SocialShare />
                   </ul>
                 </div>
               </div>

@@ -17,22 +17,21 @@ const OnlineCourse = () => {
                     className="pre-title"
                     data-sal="slide-up"
                     data-sal-duration="1000">
-                    Online Course
+                    Bizning dasturimmiz
                   </span>
                   <h2
                     className="title"
                     data-sal-delay="100"
                     data-sal="slide-up"
                     data-sal-duration="1000">
-                    Learn Your Online Course Easily With EduBlink
+                    Sizng mijozingizni osonroq topishga erishing
                   </h2>
                   <p
                     data-sal-delay="100"
                     data-sal="slide-up"
                     data-sal-duration="1000">
-                    Users can check up their active courses, update their bio,
-                    completed courses, track their progress easily and many
-                    more.
+                    Karvon taxi ilovasi orqali qulayroq va osonroq mijoz toping
+                    va ko'proq daromadga tezroq erishing
                   </p>
                   <div
                     data-sal-delay="400"
@@ -40,7 +39,7 @@ const OnlineCourse = () => {
                     data-sal-duration="1000">
                     <Link href="/course-details">
                       <a className="edu-btn" target="_blank">
-                        Course Details <i className="icon-4"></i>
+                        Yuklab olish <i className="icon-4"></i>
                       </a>
                     </Link>
                   </div>
