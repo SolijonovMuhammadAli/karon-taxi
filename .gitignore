@@ -4,6 +4,7 @@
 
 # dependencies
 /node_modules
+/out
 /node-server-test
 /.pnp
 .pnp.js
